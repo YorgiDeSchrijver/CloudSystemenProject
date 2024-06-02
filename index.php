@@ -32,5 +32,6 @@
         // Close the connection (optional, but good practice)
         mysqli_close($connect);
     ?>
+    <h1>hallo</h1>
 </body>
 </html>
